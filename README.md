@@ -3,4 +3,4 @@ A mod of the darker version of the original [Candra](https://github.com/killhell
 
 # Preview
 
-![Preview](https://github.com/marinos-m/Candra-darker-mod/blob/master/screen.jpg)
+![Preview](https://github.com/marinos-m/Candra-darker-mod/blob/master/screen.png)
