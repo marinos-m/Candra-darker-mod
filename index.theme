@@ -1,0 +1,10 @@
+[X-GNOME-Metatheme]
+Name=Candra-Darker-mod
+Type=X-GNOME-Metatheme
+Comment=A Qt-like theme for Gtk
+Encoding=UTF-8
+GtkTheme=Candra-Darker-mod
+MetacityTheme=Adwaita
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
